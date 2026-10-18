@@ -2,9 +2,14 @@ aaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbb
 cccccccccccccc
 dddddddddddddd
-<<<<<<< HEAD
 aaaaaaaaaaaaa
-=======
 ccccccccccccccca
 aaaaaaaaaaaaaa
->>>>>>> origin/desarrollo
+aaaaaaaaaaaaaa
+cccccccccccc
+nnnnnnnnnnnnnn
+aaaaaaaaaab
+bbbbbbb
+
+
+final diferenteaaaaaaaaaaa
